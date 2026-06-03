@@ -1,0 +1,29 @@
+fastapi
+uvicorn
+motor
+pymongo
+python-dotenv
+pydantic-settings
+loguru
+python-multipart
+
+
+
+echo fastapi > requirements.txt
+echo uvicorn >> requirements.txt
+echo motor >> requirements.txt
+echo pymongo >> requirements.txt
+echo python-dotenv >> requirements.txt
+echo pydantic-settings >> requirements.txt
+echo loguru >> requirements.txt
+echo python-multipart >> requirements.txt
+
+
+
+
+
+
+
+
+
+
